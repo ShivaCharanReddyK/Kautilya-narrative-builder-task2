@@ -1,0 +1,159 @@
+{
+  "narrative_summary": "We found 5 high-rated articles touching on 'AI regulation'. Notable coverage includes: Reducing acute dependence, countering China\u2019s near monopoly: India readies Rs 5,000 crore scheme for rare earth minerals; \u2018Technology will help us decongest Hyderabad roads\u2019: Joint commissioner responds queries from TOI readers; Bombay HC orders preservation of dead man's semen on mother's plea. Themes emerge around regulation. The timeline below traces how the story evolved and how different sources build on one another. Additional context clusters and graph edges capture related angles.",
+  "timeline": [
+    {
+      "date": "2025-06-21T19:04:00Z",
+      "headline": "Reducing acute dependence, countering China\u2019s near monopoly: India readies Rs 5,000 crore scheme for rare earth minerals",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/reducing-acute-dependence-countering-chinas-near-monopoly-india-readies-rs-5000-crore-scheme-for-rare-earth-minerals/articleshow/121988868.cms",
+      "why_it_matters": "India is preparing a Rs 3,500-Rs 5,000 crore scheme to reduce its dependency on China for rare earth minerals."
+    },
+    {
+      "date": "2025-06-25T09:47:00Z",
+      "headline": "\u2018Technology will help us decongest Hyderabad roads\u2019: Joint commissioner responds queries from TOI readers",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/technology-will-help-us-decongest-hyderabad-roads-joint-commissioner-responds-queries-from-toi-readers/articleshow/122060398.cms",
+      "why_it_matters": "The Hyderabad traffic police are actively engaged in managing the city's increasing traffic congestion by utilizing technology."
+    },
+    {
+      "date": "2025-06-27T04:37:00Z",
+      "headline": "Bombay HC orders preservation of dead man's semen on mother's plea",
+      "url": "https://timesofindia.indiatimes.com/india/bombay-hc-orders-preservation-of-dead-mans-semen-on-mothers-plea/articleshow/122100087.cms",
+      "why_it_matters": "The Bombay High Court has ordered a fertility center to preserve the frozen semen of a deceased unmarried man, pending a petition hearing by his mother."
+    },
+    {
+      "date": "2025-06-30T23:07:00Z",
+      "headline": "Government to roll out 20-year cooperative policy; aims 2 lakh PACS by February 2026: Amit Shah",
+      "url": "https://timesofindia.indiatimes.com/india/government-to-roll-out-20-year-cooperative-policy-aims-2-lakh-pacs-by-february-2026-amit-shah/articleshow/122165484.cms",
+      "why_it_matters": "In a significant move to rejuvenate India's cooperative sector, Union Home and Cooperation Minister Amit Shah announced the National Cooperative Policy for the period 2025-2045."
+    },
+    {
+      "date": "2025-07-02T10:41:00Z",
+      "headline": "Deadliest Pharma Disaster in India: Sigachi Factory Blast Claims Lives",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/deadliest-pharma-disaster-in-india-sigachi-factory-blast-claims-lives/articleshow/122197118.cms",
+      "why_it_matters": "A devastating explosion at Sigachi Industries in Sangareddy has become the deadliest disaster in India's pharmaceutical sector history, claiming over 35 lives."
+    }
+  ],
+  "clusters": [
+    {
+      "theme": "regulation",
+      "summary": "5 article(s) explore 'regulation' aspects of the topic.",
+      "articles": [
+        {
+          "headline": "Reducing acute dependence, countering China\u2019s near monopoly: India readies Rs 5,000 crore scheme for rare earth minerals",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/reducing-acute-dependence-countering-chinas-near-monopoly-india-readies-rs-5000-crore-scheme-for-rare-earth-minerals/articleshow/121988868.cms",
+          "date": "2025-06-21T19:04:00Z"
+        },
+        {
+          "headline": "\u2018Technology will help us decongest Hyderabad roads\u2019: Joint commissioner responds queries from TOI readers",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/technology-will-help-us-decongest-hyderabad-roads-joint-commissioner-responds-queries-from-toi-readers/articleshow/122060398.cms",
+          "date": "2025-06-25T09:47:00Z"
+        },
+        {
+          "headline": "Bombay HC orders preservation of dead man's semen on mother's plea",
+          "url": "https://timesofindia.indiatimes.com/india/bombay-hc-orders-preservation-of-dead-mans-semen-on-mothers-plea/articleshow/122100087.cms",
+          "date": "2025-06-27T04:37:00Z"
+        },
+        {
+          "headline": "Government to roll out 20-year cooperative policy; aims 2 lakh PACS by February 2026: Amit Shah",
+          "url": "https://timesofindia.indiatimes.com/india/government-to-roll-out-20-year-cooperative-policy-aims-2-lakh-pacs-by-february-2026-amit-shah/articleshow/122165484.cms",
+          "date": "2025-06-30T23:07:00Z"
+        },
+        {
+          "headline": "Deadliest Pharma Disaster in India: Sigachi Factory Blast Claims Lives",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/deadliest-pharma-disaster-in-india-sigachi-factory-blast-claims-lives/articleshow/122197118.cms",
+          "date": "2025-07-02T10:41:00Z"
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": 106,
+        "headline": "Reducing acute dependence, countering China\u2019s near monopoly: India readies Rs 5,000 crore scheme for rare earth minerals",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/reducing-acute-dependence-countering-chinas-near-monopoly-india-readies-rs-5000-crore-scheme-for-rare-earth-minerals/articleshow/121988868.cms",
+        "date": "2025-06-21T19:04:00Z",
+        "why_it_matters": "India is preparing a Rs 3,500-Rs 5,000 crore scheme to reduce its dependency on China for rare earth minerals."
+      },
+      {
+        "id": 1075,
+        "headline": "\u2018Technology will help us decongest Hyderabad roads\u2019: Joint commissioner responds queries from TOI readers",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/technology-will-help-us-decongest-hyderabad-roads-joint-commissioner-responds-queries-from-toi-readers/articleshow/122060398.cms",
+        "date": "2025-06-25T09:47:00Z",
+        "why_it_matters": "The Hyderabad traffic police are actively engaged in managing the city's increasing traffic congestion by utilizing technology."
+      },
+      {
+        "id": 1598,
+        "headline": "Bombay HC orders preservation of dead man's semen on mother's plea",
+        "url": "https://timesofindia.indiatimes.com/india/bombay-hc-orders-preservation-of-dead-mans-semen-on-mothers-plea/articleshow/122100087.cms",
+        "date": "2025-06-27T04:37:00Z",
+        "why_it_matters": "The Bombay High Court has ordered a fertility center to preserve the frozen semen of a deceased unmarried man, pending a petition hearing by his mother."
+      },
+      {
+        "id": 2511,
+        "headline": "Government to roll out 20-year cooperative policy; aims 2 lakh PACS by February 2026: Amit Shah",
+        "url": "https://timesofindia.indiatimes.com/india/government-to-roll-out-20-year-cooperative-policy-aims-2-lakh-pacs-by-february-2026-amit-shah/articleshow/122165484.cms",
+        "date": "2025-06-30T23:07:00Z",
+        "why_it_matters": "In a significant move to rejuvenate India's cooperative sector, Union Home and Cooperation Minister Amit Shah announced the National Cooperative Policy for the period 2025-2045."
+      },
+      {
+        "id": 2937,
+        "headline": "Deadliest Pharma Disaster in India: Sigachi Factory Blast Claims Lives",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/deadliest-pharma-disaster-in-india-sigachi-factory-blast-claims-lives/articleshow/122197118.cms",
+        "date": "2025-07-02T10:41:00Z",
+        "why_it_matters": "A devastating explosion at Sigachi Industries in Sangareddy has become the deadliest disaster in India's pharmaceutical sector history, claiming over 35 lives."
+      }
+    ],
+    "edges": [
+      {
+        "source": 106,
+        "target": 1075,
+        "relation": "adds_context"
+      },
+      {
+        "source": 106,
+        "target": 1598,
+        "relation": "adds_context"
+      },
+      {
+        "source": 106,
+        "target": 2511,
+        "relation": "adds_context"
+      },
+      {
+        "source": 106,
+        "target": 2937,
+        "relation": "adds_context"
+      },
+      {
+        "source": 1075,
+        "target": 1598,
+        "relation": "adds_context"
+      },
+      {
+        "source": 1075,
+        "target": 2511,
+        "relation": "adds_context"
+      },
+      {
+        "source": 1075,
+        "target": 2937,
+        "relation": "adds_context"
+      },
+      {
+        "source": 1598,
+        "target": 2511,
+        "relation": "adds_context"
+      },
+      {
+        "source": 1598,
+        "target": 2937,
+        "relation": "adds_context"
+      },
+      {
+        "source": 2511,
+        "target": 2937,
+        "relation": "adds_context"
+      }
+    ]
+  }
+}
